@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <!-- This is a comment-->
+    <title> first website with HTML </title>
+</head>
+<body style="background-color: blue;">
+<h3 style="color: aqua;"> Hello, and welcome to my website  </h3>
+
+<table bgcolor="red">
+    <th width="100">I</th>
+    <th width="100">hope</th>
+    <th width="100">you</th>
+    <th width="100">enjoy</th>
+    <th width="100">this</th>
+    <th width="100">useless</th>
+    <th width="100">website</th>
+
+    </table>
+
+<br>
+<br>
+<br>
+
+<!--iframe controls src="https://kali.org" height="500" width="500"-->
+
+
+
+<a href="https://kali.org" title="this is the software i use to hack">
+    <button>click me</button>
+    </a>
+
+<br>
+
+
+    <form action="" method="POST">
+
+        <div>
+            <label for="fname" title="this wont actually go to me"> GIVE ME YOUR DATA:</label>
+            <input type="text" id="lname" name="lname" placeholder="name goes here">
+        </div>
+
+
+        <br>
+
+        <div>
+            <input type="submit">
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </form>
+    
+    
+
+
+
+<!-- The hyperlink function won't work. "<a> </a>"-->
+<!-- span  - adds markup to a text or a portion of the document -->
+<!-- div - defines a division of a document -->
+<!-- iframe - embeded content from another source -->
+
+
+<p> <span style="background-color: aliceblue;"> this website is the worst website.</span> It has no purpose.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html> 
